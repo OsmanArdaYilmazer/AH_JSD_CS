@@ -26,4 +26,4 @@ Additional Questions:
 2) We could implement a scheduler to the script using the schedule library, or an even simpler solution would be to use windows task scheduler for windows, or CRON for macintosh systems.
 3) An API(Application Programming Interface) is an intermediary communication method that allows for exchange between two applications.
 
-There still are miniscule problems with getting the product code, but I have been quite busy these 3 days and with the addition of a deep wound on my right hand's middle finger, I couldn't get around to fixing it.
+There still are miniscule problems with getting the product code, but I have been quite busy these 3 days and with the addition of a deep wound on my right hand's middle finger, I couldn't get around to fixing it
